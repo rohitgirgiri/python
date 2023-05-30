@@ -1,12 +1,13 @@
 # Python streams:
-1)Data science#
-2)Web Development#
+# 1)Data science
+# 2)Web Development
 
 
 
-web development
-1) Data structures and algorithms
-2) any framework (Django or FastAPI)
-refence: https://roadmap.sh/python
+# Web development
+# 1) Data structures and algorithms
+# 2) Any framework (Django or FastAPI)
+# 3) Database handling
+# refence: https://roadmap.sh/python
 
 Data science
