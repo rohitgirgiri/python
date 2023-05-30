@@ -1,6 +1,6 @@
 # Python streams:
- 1)Data science <br>
- 2)Web Development
+ 1. Data science <br>
+ 2. Web Development
 
 
 
