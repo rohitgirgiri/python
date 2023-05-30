@@ -5,9 +5,9 @@
 
 
 # Web development
-# 1) Data structures and algorithms
-# 2) Any framework (Django or FastAPI)
-# 3) Database handling
-# refence: https://roadmap.sh/python
+ 1) Data structures and algorithms
+ 2) Any framework (Django or FastAPI)
+ 3) Database handling
+refence: https://roadmap.sh/python
 
 Data science
