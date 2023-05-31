@@ -1,6 +1,8 @@
 # Python streams:
  1. Data science <br>
- 2. Web Development
+ 2. Machine Learning <br>
+ 3. Artificial intellignce <br>
+ 4. Web Development <br>
 
 
 
